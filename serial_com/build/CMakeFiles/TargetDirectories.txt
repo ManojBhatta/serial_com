@@ -1,0 +1,10 @@
+/home/manoj/ros/robot_ws/src/serial_com/build/CMakeFiles/uninstall.dir
+/home/manoj/ros/robot_ws/src/serial_com/build/CMakeFiles/serial_com_uninstall.dir
+/home/manoj/ros/robot_ws/src/serial_com/build/CMakeFiles/joy_sub.dir
+/home/manoj/ros/robot_ws/src/serial_com/build/CMakeFiles/test.dir
+/home/manoj/ros/robot_ws/src/serial_com/build/CMakeFiles/edit_cache.dir
+/home/manoj/ros/robot_ws/src/serial_com/build/CMakeFiles/rebuild_cache.dir
+/home/manoj/ros/robot_ws/src/serial_com/build/CMakeFiles/list_install_components.dir
+/home/manoj/ros/robot_ws/src/serial_com/build/CMakeFiles/install.dir
+/home/manoj/ros/robot_ws/src/serial_com/build/CMakeFiles/install/local.dir
+/home/manoj/ros/robot_ws/src/serial_com/build/CMakeFiles/install/strip.dir
