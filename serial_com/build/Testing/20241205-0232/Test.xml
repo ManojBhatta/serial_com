@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20241205-0232-Experimental"
+	Name="manogion"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="manogion"
+	OSRelease="6.8.0-49-generic"
+	OSVersion="#49~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Wed Nov  6 17:42:15 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15858"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4068.22"
+	>
+	<Testing>
+		<StartDateTime>Dec 05 08:17 +0545</StartDateTime>
+		<StartTestTime>1733365938</StartTestTime>
+		<TestList/>
+		<EndDateTime>Dec 05 08:17 +0545</EndDateTime>
+		<EndTestTime>1733365938</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

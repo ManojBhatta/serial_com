@@ -1,5 +1,5 @@
 #include<memory>
-#include"rclcpp.hpp"
+#include"rclcpp/rclcpp.hpp"
 #include<rclcpp/node.hpp>
 #include"rclcpp/subscription.hpp"
 #include"rclcpp/subscription_base.hpp"
@@ -17,7 +17,8 @@ class JoyPublisher : public rclcpp::Node
     }
     private:
     void subscription_callback(const sensor_msgs::msg::Joy::UniquePtr msg){
-        RCLCPP_INFO(this -> get_logger(), " %.6f \n",msg.axes[1]);
+        RCLCPP_INFO(this->get_logger(), "%.6f   %.6f ", msg->axes[1], msg->axes[0]);
+
     }
     rclcpp::Subscription<sensor_msgs::msg::Joy>::SharedPtr sub1;
 };
